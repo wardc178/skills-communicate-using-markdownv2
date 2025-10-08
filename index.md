@@ -12,3 +12,6 @@ I have tested different heading sizes using #'s in this version
 ``` javascript
 var myVar ="Hello, world!";
 ```
+
+- [x] Does this work?
+- [ ] WHat about this?
