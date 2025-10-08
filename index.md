@@ -8,3 +8,7 @@
 I have tested different heading sizes using #'s in this version
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar ="Hello, world!";
+```
